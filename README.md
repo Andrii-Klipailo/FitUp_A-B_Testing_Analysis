@@ -13,7 +13,6 @@ It offers personalized training plans, real-time performance tracking, and a sub
 Users can access a limited set of workouts for free, or unlock full access to all training programs through one of two premium subscription plans: **monthly ($9.99)** or **yearly ($99.99)**.
 
 
----
 
 ## Experiment Context & Objective
 
@@ -21,10 +20,9 @@ This project aims to evaluate whether **adding a motivational message at the end
 
 ### Hypothesis
 
-> Users are more emotionally engaged and motivated immediately after completing a workout.  
-> Displaying a **motivational phrase** along with a **subscription CTA (Call-to-Action)** at that moment may increase the likelihood of upgrading to a premium plan.
+Users are more emotionally engaged and motivated immediately after completing a workout.  
+Displaying a **motivational phrase** along with a **subscription CTA (Call-to-Action)** at that moment may increase the likelihood of upgrading to a premium plan.
 
----
 
 ## Methodology
 
@@ -156,7 +154,7 @@ The experiment demonstrated a statistically significant improvement in conversio
 
 ### Key Insight
 
-> Timing and emotional context matter — a well-placed motivational message right after a workout can create an effective upsell moment.
+Timing and emotional context matter — a well-placed motivational message right after a workout can create an effective upsell moment.
 
 ### Recommendation
 
