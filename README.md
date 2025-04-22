@@ -29,8 +29,8 @@ Displaying a **motivational phrase** along with a **subscription CTA (Call-to-Ac
 - **Main Metric:** Conversion to subscription (% of users who purchase a premium plan)  
 - **Test Type:** A/B Test (between Group A – control, and Group B – variant)  
 - **Group Allocation:** Users were **randomly assigned** to control and treatment groups  
-- **Sample Size:** Calculated based on minimum detectable effect and desired statistical power. Calculated with [Evan_Miller](https://www.evanmiller.org/ab-testing/sample-size.html)
-![FitUp Logo](https://github.com/Andrii-Klipailo/FitUp_A-B_Testing_Analysis/blob/main/images/Sample_size.png)   
+- **Sample Size:** Calculated based on minimum detectable effect and desired statistical power. Calculated using the [Evan Miller A/B test calculator](https://www.evanmiller.org/ab-testing/sample-size.html)
+![Sample_size](https://github.com/Andrii-Klipailo/FitUp_A-B_Testing_Analysis/blob/main/images/Sample_size.png)   
 -	**Test Duration:** Calculated based on the sample size
 ```SQL
 --Calculation number of days for A/B test with our sample size
